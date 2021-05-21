@@ -1,3 +1,3 @@
 # Hangman
 
-A quick school project with super fancy music :)Y
+A quick school project with super fancy music :)
